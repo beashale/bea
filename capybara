@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Capybara</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+       <div class="bigbox"> <h1><strong>CAPYBARA</strong></h1>
+<img src="https://cdn.mos.cms.futurecdn.net/g8PyY6xAhcndpQLLSkdPf-1024-80.jpg.webp" alt="Capybara"/>
+<br>
+<div class="box"><p><em>Twice the size of the beaver, the capybara is the biggest rodent on the planet.</em></p>
+    <p><strong>Height:</strong> 50 - 62 cm (Adult, at the withers)
+<br>
+<strong>Weight:</strong> 35 - 66 kg (Adult)
+<br>
+<strong>Species:</strong> H. hydrochaeris
+<br>
+<strong>Family:</strong> Caviidae
+<br>
+<strong>Class:</strong> Mammalia
+<br>
+<strong>Genus:</strong> Hydrochoerus
+</p>
+<p>Capybaras are semiaquatic mammals found throughout almost all countries of South America except Chile. They live in densely forested areas near bodies of water, such as lakes, rivers, swamps, ponds, and marshes, as well as flooded savannah and along rivers in the tropical rainforest. They are superb swimmers and can hold their breath underwater for up to five minutes at a time. Capybara have flourished in cattle ranches. They roam in home ranges averaging 10 hectares (25 acres) in high-density populations.</p>
+</div>
+<br> 
+</div>
+</div>
+    </body>
+    </html>
